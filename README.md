@@ -57,7 +57,5 @@ Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
 <br>
 
 # Roman Nikolaev
-- Role (Moderator, Tester)
-
-<img width="250" height="250" alt="YouTube_Logo" src="https://github.com/user-attachments/assets/9ef381e5-a1e8-4806-bfdb-4499749307cf" />
-
+<img width="100" height="100" alt="YouTube_Logo" src="https://github.com/user-attachments/assets/9ef381e5-a1e8-4806-bfdb-4499749307cf" /> <br>
+- Role (Moderator, Tester) 
