@@ -53,3 +53,6 @@ Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
 - tester 
 
 <img width="250" height="250" alt="YouTube_Logo" src="https://github.com/user-attachments/assets/5c7204ca-4bca-4673-8117-965732e7ee6d" />
+
+***Roman Nikolaev***
+- Role (Moderator, Tester)
