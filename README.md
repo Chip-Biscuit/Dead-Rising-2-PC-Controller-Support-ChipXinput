@@ -42,6 +42,8 @@ Go to the bottom of the page download DeadRising2OTRController.zip unzip it and 
 Instructions:
 
     Put d3d9.dll & d3d9.ini files in the directory of the game (next to deadrising2.exe)
+    Open d3d9.ini and change` Output = 0` to `Output = 1`
+
 
 For deep customization check both d3d9.ini and [hotkey]keycodes.txt files inside the archive.
 # Custom Controller Layout 
