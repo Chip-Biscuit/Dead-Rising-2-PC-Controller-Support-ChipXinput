@@ -15,34 +15,40 @@ Reverse Engineering • Programming • Patching • Game Improvements • DLL C
 # Information
 This is a library I have been working on for some time now to add x-input support into games with broken or missing controller support.
 
-# Installation 
-Go to releases download DeadRising2Controller.zip unzip it and put the contents into your games install location next to deadrising2.exe. in d3d9.ini you can fully customise the inputs its all explained in the INI you can also use [hotkey]keycodes.txt provided in the fix to help you. 
+# For native controller support (Allows for Xbox button prompts and rumble)
 
+Go to releases and download DeadRising2Controller.zip unzip it and put the contents into your games install location next to deadrising2.exe.
+Instructions:
+
+    Put d3d9.dll & d3d9.ini files in the directory of the game (next to deadrising2.exe)
+    Open d3d9.ini and change` Output = 1` to `Output = 0`
+    In Steam (if steam version is used)
+    Pick the game Dead Rising 2
+    Press the cog button on the right
+    Chose "properties".
+    Go into "controller" tab
+    Turn off Steam Input completely picking the corresponding option from the drop-down list.
+
+# OPTIONAL
+
+Usually after the second step the game will recognize controller as soon as the game starts. But sometimes (required only once) the game can require turning controller on inside of the game. So start the game, use your keyboard or mouse, head to the "Options", chose "PC Settings" and make sure the "controller" setting is set to "Enabled". All of that should be done while controller is still plugged in, otherwise the "Controller" option will be greyed out.
+
+Now the game should work in full native controller support, with Xbox button prompts and rumble included.
+
+# For Custom controller support (Lacks rumble and button prompts, but allows deep configuration of each button/stick/trigger.)
+
+Go to the bottom of the page download DeadRising2OTRController.zip unzip it and put the contents into your games install location next to deadrising2.exe. in d3d9.ini you can fully customise the inputs its all explained in the INI you can also use [hotkey]keycodes.txt provided in the fix to help you.
+
+Instructions:
+
+    Put d3d9.dll & d3d9.ini files in the directory of the game (next to deadrising2.exe)
+
+For deep customization check both d3d9.ini and [hotkey]keycodes.txt files inside the archive.
 # Custom Controller Layout 
 
 <img width="870" height="665" alt="Dead_Rising_2_Xbox_Controller_Layout_Image" src="https://github.com/user-attachments/assets/ec92a71f-89f4-428a-bf43-e1441d221080" />
 <br>
 <img width="1141" height="1704" alt="Dead_Rising_2_Xbox_Controller_Layout" src="https://github.com/user-attachments/assets/bb6e9f94-2738-49e4-aff5-c32b69f2c0ad" />
-
-# OPTIONAL 
-
-# (If output = 0 inside of d3d9.ini)
-
-Instructions:
-- Put d3d9.dll & d3d9.ini files in the directory of the game (next to deadrising2.exe)
-- In Steam (if steam version is used)
-- Pick the game Dead Rising 2 off the record
-- Press the cog button on the right
-- Chose "properties".
-- Go into "controller" tab
-- Turn off Steam Input completely picking the corresponding option from the drop-down list.
-
-
-# ADVICE
- Usually after the second step the game will recognize controller as soon as the game starts. But sometimes (required only once) the game can require turning controller on inside of the game. So start the game, use your keyboard or mouse, head to the "Options", chose "PC Settings" and make sure the "controller" setting is set to "Enabled". All of that should be done while controller is still plugged in, otherwise the "Controller" option will be grayed out.
-
-Now the game should work in full native controller support, with xbox button prompts and rumble included.
-
 
 # Issues
 If you have any issues please go to discord for help 
