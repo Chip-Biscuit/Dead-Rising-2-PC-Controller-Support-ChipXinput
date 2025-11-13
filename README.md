@@ -30,6 +30,11 @@ Instructions:
 <br>
 <img width="1141" height="1704" alt="Dead_Rising_2_Xbox_Controller_Layout" src="https://github.com/user-attachments/assets/bb6e9f94-2738-49e4-aff5-c32b69f2c0ad" />
 
+# Alternative user profile if the above doesn't work:
+
+[![PCGamingWiki](https://img.shields.io/badge/PCGamingWiki-File%20Page-0066cc?style=flat&logo=pcgamingwiki&logoColor=white)](https://community.pcgamingwiki.com/files/file/3730-chipxinput-dead-rising-2-controller-calibration-fix/)
+
+
 # Issues
 If you have any issues please go to discord for help 
 
