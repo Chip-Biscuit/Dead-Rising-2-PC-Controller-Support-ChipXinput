@@ -28,7 +28,9 @@ Instructions:
 
 <img width="870" height="665" alt="Dead_Rising_2_Xbox_Controller_Layout_Image" src="https://github.com/user-attachments/assets/ec92a71f-89f4-428a-bf43-e1441d221080" />
 <br>
-<img width="1141" height="1704" alt="Dead_Rising_2_Xbox_Controller_Layout" src="https://github.com/user-attachments/assets/bb6e9f94-2738-49e4-aff5-c32b69f2c0ad" />
+
+<img width="928" height="1413" alt="Dead_Rising_2_Xbox_Controller_Layout" src="https://github.com/user-attachments/assets/c8b8a55c-6f59-4053-96dc-c4f32b562dab" />
+
 
 # Alternative user profile if the above doesn't work:
 
