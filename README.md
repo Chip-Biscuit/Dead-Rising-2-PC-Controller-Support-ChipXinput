@@ -66,15 +66,19 @@ Credit to Elisha Riedlinger for the base wrapper and 13 AG.
 
 Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
 
-# Team fix enhancers:
-“Creating compatibility fixes and enhancements for legacy PC games.”
+---
 
+### Fix Enhancers  
+https://fixenhancers.wixsite.com/fix-enhancers
+
+“Creating compatibility fixes and enhancements for legacy PC games.”
 
 # Chip
 - founder
 - reverse engineer
 - programmer
 - developer
+- Game Preservationist
   
 <img width="250" height="500" alt="my logoo" src="https://github.com/user-attachments/assets/9bb13d3f-0734-4f1d-b68f-14114b13744a" />
 
@@ -85,9 +89,3 @@ Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
 - tester 
 
 <img width="250" height="250" alt="YouTube_Logo" src="https://github.com/user-attachments/assets/5c7204ca-4bca-4673-8117-965732e7ee6d" />
-
-<br>
-
-# Roman Nikolaev
-<img width="100" height="100" alt="YouTube_Logo" src="https://github.com/user-attachments/assets/9ef381e5-a1e8-4806-bfdb-4499749307cf" /> <br>
-- Role (Moderator, Tester) 
